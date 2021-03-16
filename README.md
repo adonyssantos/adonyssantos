@@ -1,4 +1,5 @@
 # Hey, I'm Adonys 👋🏻🙍🏻‍♂️
+
 ### Junior Front-End Developer | Git & GitHub | Javascript | React.js | Discord.js | Firebase
 
 - 🗣️ Languages I speak Spanish (Native) and English (Beginner)
@@ -17,7 +18,6 @@
 
 ![adonyssantos](https://komarev.com/ghpvc/?username=adonyssantos&label=Profile%20views&color=0e75b6&style=flat)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adonyssantoscemas)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![adonyssantos](https://github-readme-stats.vercel.app/api/top-langs?username=adonyssantos&show_icons=true&locale=en&layout=compact)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=adonyssantoscemas)](https://github.com/ryo-ma/github-profile-trophy)
