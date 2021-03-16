@@ -1,13 +1,13 @@
 # Hey, I'm Adonys 👋🏻🙍🏻‍♂️
 ### Junior Front-End Developer | Git & GitHub | Javascript | React.js | Discord.js | Firebase
 
-[![Linkedin Badge](https://img.shields.io/badge/-adonyssantos-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adonyssantos/)](https://www.linkedin.com/in/adonyssantos/) [![Github Badge](https://img.shields.io/badge/-adonyssantos-grey?style=flat&logo=github&logoColor=white&link=https://github.com/adonyssantos/)](https://www.github.com/adonyssantos/) [![Twitter Badge](https://img.shields.io/badge/-adonyssantos_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/adonyssantos_/)](https://www.twitter.com/adonyssantos_/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=http://adonyssantos.me//)](http://adonyssantos.me//) 
-
 - 🗣️ Languages I speak Spanish (Native) and English (Beginner)
 - 🌱 I’m currently learning Git, PHP, React.js, Discord.js, and Web developer tools.
 - 🔭 I’m currently working on Discord Bot with Discord.js
 - 🤔 I’m looking for help with Develop Discord Bot  
 - 🌐 Join to my Discord server https://discord.gg/fyGx7BZ
+
+[![Linkedin Badge](https://img.shields.io/badge/-adonyssantos-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adonyssantos/)](https://www.linkedin.com/in/adonyssantos/) [![Github Badge](https://img.shields.io/badge/-adonyssantos-grey?style=flat&logo=github&logoColor=white&link=https://github.com/adonyssantos/)](https://www.github.com/adonyssantos/) [![Twitter Badge](https://img.shields.io/badge/-adonyssantos_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/adonyssantos_/)](https://www.twitter.com/adonyssantos_/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=http://adonyssantos.me//)](http://adonyssantos.me//) 
 
 ### Languages and Frameworks:
 
@@ -16,6 +16,8 @@
 ### GitHub Stats
 
 ![adonyssantos](https://komarev.com/ghpvc/?username=adonyssantos&label=Profile%20views&color=0e75b6&style=flat)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adonyssantoscemas)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![adonyssantos](https://github-readme-stats.vercel.app/api/top-langs?username=adonyssantos&show_icons=true&locale=en&layout=compact)
 
