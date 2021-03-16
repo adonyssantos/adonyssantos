@@ -64,7 +64,7 @@
 	</a>
 </p>
 
-### GitHub Stats
+### Some of my Github Stats
 
 ![adonyssantos](https://komarev.com/ghpvc/?username=adonyssantos&label=Profile%20views&color=0e75b6&style=flat)
 
