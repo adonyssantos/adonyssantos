@@ -1,6 +1,6 @@
 # Hey, Adonys here! 👋🏻🙍🏻‍♂️
 
-### I'm Junior Front-End Developer
+### I'm a Junior Front-End Developer
 
 - 🗣️ Languages I speak Spanish (Native) and English (Beginner)
 - 🌱 I’m currently learning Git, PHP, React.js, Discord.js, and Web developer tools.
