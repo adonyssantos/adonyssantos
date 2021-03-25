@@ -51,6 +51,10 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 			alt="React.js" title="React.js" width="40" height="40" />
 	</a>
+	<a href="https://v4.webpack.js.org/" target="_blank">
+		<img src="https://miro.medium.com/max/1200/1*xQCjgB2DVqhtqGoGw9E6TQ.png"
+			alt="Webpack" title="Webpack" width="40" height="40" />
+	</a>
 	<a href="https://nodejs.org" target="_blank">
 		<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" title="Node.js" width="40" height="40" />
 	</a>
