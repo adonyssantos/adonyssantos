@@ -1,6 +1,6 @@
-# Hey, I'm Adonys 👋🏻🙍🏻‍♂️
+# Hey, Adonys here! 👋🏻🙍🏻‍♂️
 
-### Junior Front-End Developer | Git & GitHub | Javascript | React.js | Discord.js | Firebase
+### I'm Junior Front-End Developer
 
 - 🗣️ Languages I speak Spanish (Native) and English (Beginner)
 - 🌱 I’m currently learning Git, PHP, React.js, Discord.js, and Web developer tools.
