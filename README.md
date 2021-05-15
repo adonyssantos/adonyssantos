@@ -3,10 +3,9 @@
 ### I'm a Junior Front-End Developer
 
 - 🗣️ Languages I speak Spanish (Native) and English (Beginner)
-- 🌱 I’m currently learning Git, PHP, React.js, Discord.js, and Web developer tools.
-- 🔭 I’m currently working on Discord Bot with Discord.js
-- 🤔 I’m looking for help with Develop Discord Bot  
-- 🌐 Join to my Discord server https://discord.gg/fyGx7BZ
+- 🌱 I’m currently learning with [Platzi](https://platzi.com/p/adonyssantos/).
+- 🔭 I’m currently working on [CSS Framework](https://github.com/adonyssantos/palm-treee-css).  
+- 🌐 Join my community on Discord [https://discord.gg/fyGx7BZ](https://discord.gg/fyGx7BZ)
 
 [![Instagram Badge](https://img.shields.io/badge/-adonyssantos_-darkviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adonyssantos_/)](https://www.instagram.com/adonyssantos_/) [![Twitter Badge](https://img.shields.io/badge/-adonyssantos_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/adonyssantos_/)](https://www.twitter.com/adonyssantos_/) [![Linkedin Badge](https://img.shields.io/badge/-adonyssantos-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adonyssantos/)](https://www.linkedin.com/in/adonyssantos/) [![Github Badge](https://img.shields.io/badge/-adonyssantos-grey?style=flat&logo=github&logoColor=white&link=https://github.com/adonyssantos/)](https://www.github.com/adonyssantos/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=http://adonyssantos.me//)](http://adonyssantos.me//) 
 
