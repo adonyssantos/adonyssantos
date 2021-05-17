@@ -1,7 +1,3 @@
-<style>
-	img[alt][src][title] { width: 40px; display: inline-block;}
-</style> 
-
 # Hey, Adonys here! 👋🏻🙍🏻‍♂️
 
 ### I'm a Junior Front-End Developer
