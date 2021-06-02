@@ -12,7 +12,7 @@
 
 ![adonyssantos](https://komarev.com/ghpvc/?username=adonyssantos&label=Profile%20views&color=0e75b6&style=flat)
 
-Hi, I'm [**Adonys Santos**](https://adonyssantos.me/), I'm a **Junior Front-End Developer** & [**Platzi Student**](https://platzi.com/p/adonyssantos/). I like tech and sports, every time I am learning new skills. I'm interested in web development and graphic design. I am currently developing personal projects and contributing to small projects on GitHub. I think that Canada is a beautiful country and one day I would like to visit it.
+Hi, I'm [**Adonys Santos**](https://adonyssantos.me/), I'm a **Junior Frontend Developer** & [**Platzi Student**](https://platzi.com/p/adonyssantos/). I like tech and sports, every time I am learning new skills. I'm interested in web development and graphic design. I am currently developing personal projects and contributing to small projects on GitHub. I think that Canada is a beautiful country and one day I would like to visit it.
 
 - 🗣️ I can also speak Spanish.
 - 💬 Ask me about anything, whenever I can I will help you.
