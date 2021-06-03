@@ -31,9 +31,9 @@ Hi, I'm [**Adonys Santos**](https://adonyssantos.me/), I'm a **Junior Frontend D
 
 ### My Github Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adonyssantos&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adonyssantos&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=adonyssantos&count_private=true&include_all_commits=true&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonyssantos&layout=compact&theme=onedark" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=adonyssantos&count_private=true&include_all_commits=true&theme=flat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonyssantos&layout=compact&theme=flat" />
 </div>
