@@ -16,8 +16,8 @@ Hi, I'm [**Adonys Santos**](https://adonyssantos.me/), I'm a **Junior Frontend D
 
 - 🗣️ I can also speak Spanish.
 - 💬 Ask me about anything, whenever I can I will help you.
-- 💻 Conect with me on Discord community [https://discord.gg/fyGx7BZ](https://discord.gg/fyGx7BZ)
-- 🎨 I’m currently develop an open source [CSS Library](https://github.com/adonyssantos/palm-tree-css) and [Discord Bots](https://github.com/work-connect)
+- 💻 Conect with me on Discord community [https://discord.gg/fyGx7BZ](https://discord.gg/fyGx7BZ).
+- 🎨 I’m currently develop an open source [CSS Library](https://github.com/adonyssantos/palm-tree-css) and [Discord Bots](https://github.com/work-connect).
 
 <!-- 
 
