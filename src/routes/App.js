@@ -10,8 +10,8 @@ const App = () => {
       <Switch>
         {redirectsList(redirects)}
 
-        <Route exact path="/" component={Home} />
-        <Route exact path="/home" component={Home} />
+        <Route exact path="/" component={Links} />
+        <Route exact path="/home" component={Links} />
         <Route exact path="/links" component={Links} />
         <Route component={NotFound} />
       </Switch>

@@ -9,8 +9,13 @@
   },
   "links": [
     {
+      "title": "PuzzlerDev",
+      "url": "/puzzlerdev",
+      "openInNewTab": false
+    },
+    {
       "title": "Discord",
-      "url": "https://discord.gg/fyGx7BZ",
+      "url": "/discord",
       "openInNewTab": true
     },
     {
