@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Karla');
+
+* {
+  margin: 0;
+  padding: 0;
+
+  &,
+  &::before,
+  &::after {
+    box-sizing: border-box;
+  }
+}
+
+html {
+  font-family: sans-serif;
+  font-size: 62.5%;
+}
+
+body {
+  margin: 35px 10px 40px 10px;
+  font-family: 'Karla', Helvetica, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  background-color: #f3f3f3;
+  color: #212529;
+}
