@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
 import { Home, Links, Discord, PuzzlerDev, NotFound } from '../containers';
+import redirects from '../../data/redirects.json';
 
 const App = () => (
   <BrowserRouter>
@@ -8,8 +9,22 @@ const App = () => (
       <Route exact path="/" component={Home} />
       <Route exact path="/home" component={Home} />
       <Route exact path="/links" component={Links} />
-      <Route exact path="/discord" component={Discord} />
-      <Route exact path="/puzzlerdev" component={PuzzlerDev} />
+
+      {redirects.map(redirect => {
+        const { from, to } = redirect;
+
+        return (
+          <Route
+            exact
+            path={from}
+            component={() => {
+              window.location.href = to;
+              return null;
+            }}
+          />
+        );
+      })}
+
       <Route component={NotFound} />
     </Switch>
   </BrowserRouter>
