@@ -4,7 +4,7 @@
     "to": "https://discord.gg/fyGx7BZ"
   },
   {
-    "from": "/puzzlerdev",
+    "from": ["/puzzlerdev", "/workconnect", "/tiktok"],
     "to": "https://puzzlerdev.github.io/"
   }
 ]

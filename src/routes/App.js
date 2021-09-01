@@ -1,33 +1,22 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
-import { Home, Links, Discord, PuzzlerDev, NotFound } from '../containers';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { Home, Links, NotFound } from '../containers';
+import { redirectsList } from './helpers/redirectsList';
 import redirects from '../../data/redirects.json';
 
-const App = () => (
-  <BrowserRouter>
-    <Switch>
-      <Route exact path="/" component={Home} />
-      <Route exact path="/home" component={Home} />
-      <Route exact path="/links" component={Links} />
+const App = () => {
+  return (
+    <BrowserRouter>
+      <Switch>
+        {redirectsList(redirects)}
 
-      {redirects.map(redirect => {
-        const { from, to } = redirect;
-
-        return (
-          <Route
-            exact
-            path={from}
-            component={() => {
-              window.location.href = to;
-              return null;
-            }}
-          />
-        );
-      })}
-
-      <Route component={NotFound} />
-    </Switch>
-  </BrowserRouter>
-);
+        <Route exact path="/" component={Home} />
+        <Route exact path="/home" component={Home} />
+        <Route exact path="/links" component={Links} />
+        <Route component={NotFound} />
+      </Switch>
+    </BrowserRouter>
+  );
+};
 
 export default App;
