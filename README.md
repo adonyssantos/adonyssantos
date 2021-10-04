@@ -11,6 +11,7 @@
 </a>
 
 ![adonyssantos](https://komarev.com/ghpvc/?username=adonyssantos&label=Profile%20views&color=0e75b6&style=flat)
+[![wakatime](https://wakatime.com/badge/user/47c40b74-e67d-4823-bff4-1d1d3101eeae.svg)](https://wakatime.com/@47c40b74-e67d-4823-bff4-1d1d3101eeae)
 
 Hi, I'm [**Adonys Santos**](https://adonyssantos.me/), I'm a **Junior Frontend Developer** & [**Platzi Student**](https://platzi.com/p/adonyssantos/). I like tech and sports, every time I am learning new skills. I'm interested in web development and graphic design. I am currently developing personal projects and contributing to small projects on GitHub. I think that Canada is a beautiful country and one day I would like to visit it.
 
