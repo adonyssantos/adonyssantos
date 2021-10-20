@@ -13,12 +13,16 @@
 ![adonyssantos](https://komarev.com/ghpvc/?username=adonyssantos&label=Profile%20views&color=0e75b6&style=flat)
 [![wakatime](https://wakatime.com/badge/user/47c40b74-e67d-4823-bff4-1d1d3101eeae.svg)](https://wakatime.com/@47c40b74-e67d-4823-bff4-1d1d3101eeae)
 
-Hi, I'm [**Adonys Santos**](https://adonyssantos.me/), I'm a **Junior Frontend Developer** & [**Platzi Student**](https://platzi.com/p/adonyssantos/). I like tech and sports, every time I am learning new skills. I'm interested in web development and graphic design. I am currently developing personal projects and contributing to small projects on GitHub. I think that Canada is a beautiful country and one day I would like to visit it.
+Hi, I'm [**Adonys Santos**](https://adonyssantos.me/), I'm a **Junior Frontend Developer** & [**CIC Student**](https://cincinnatus.edu.do/). I like tech and sports, every time I am learning new skills. I'm interested in web development and graphic design. I am currently developing personal projects, contributing to projects on GitHub and I've an open source project called PuzzlerDev. 👨🏻‍💻
+
+Also I'm interested in Cryptocurrencies and Business. 👨🏻‍💼
+
+I think that Canada is a beautiful country and one day I would like to visit it. 🇨🇦
 
 - 🗣️ I can also speak Spanish.
-- 💬 Ask me about anything, whenever I can I will help you.
-- 💻 Conect with me on Discord community [https://discord.gg/fyGx7BZ](https://discord.gg/fyGx7BZ).
-- 🎨 I’m currently develop an open source [CSS Library](https://github.com/adonyssantos/palm-tree-css) and [Discord Bots](https://github.com/work-connect).
+- 💬 Ask me about anything, whenever I can I'll help you.
+- 💻 Conect with me on my Discord community [https://discord.gg/fyGx7BZ](https://discord.gg/fyGx7BZ).
+- 🎨 I’m currently develop an open source [CSS Library](https://github.com/adonyssantos/palm-tree-css) and [TeckBook](https://github.com/PuzzlerDev/tecno-book-next).
 
 <!-- 
 
