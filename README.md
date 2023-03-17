@@ -1,18 +1,38 @@
-# Hey there 👋
+### HELLO THERE! 👋
 
-A software and frontend developer from **Dominican Republic**. 🇩🇴
+[![Adonys Santos' website](https://img.shields.io/badge/-Check%20my%20work-blue?style=flat-square&logo=Google&logoColor=white&link=https://www.linkedin.com/in/adonyssantos/)](https://www.adonys.me/) 
+[![Adonys Santos' LinkedIn](https://img.shields.io/badge/-Conect%20with%20me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adonyssantos/)](https://www.linkedin.com/in/adonyssantos/) 
+[![Adonys Santos' GitHub followers](https://img.shields.io/badge/-Followh%20me-blue?style=flat-square&logo=GitHub&logoColor=&link=https://www.linkedin.com/in/adonyssantos/)](https://github.com/adonyssantos/)
+[![adonyssantos' Wakatime badge](https://wakatime.com/badge/user/47c40b74-e67d-4823-bff4-1d1d3101eeae.svg)](https://wakatime.com/@47c40b74-e67d-4823-bff4-1d1d3101eeae) 
+---
 
-Since I was 14 years old I have been passionate about software development, especially web development. I am currently contributing to Open Source projects, working on an educational application and open to new opportunities.
+I'm a person with a constant passion for learning and improvement. I'm particularly interested in team leadership and solution design through software development, with the goal of leading large teams and creating innovative and creative solutions to daily challenges. My focus on teamwork, collaboration, and innovation allows me to bring a unique value to any project.
 
-I have the necessary experience and resources to work and/or collaborate in any remote development team.
+<!-- #### 📚 LATEST ARTICLES -->
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+#### 🎯 SKILLS
 
+- Web Programming Languages
+- Frontend with React and TypeScript
+- Styles libraries
+- Frontend with React
+- Code testing
+- Continuos intagration and deployment
+- Agile Methodologies · Remote Teamwork · Software Documentation
 
-[![Website](https://img.shields.io/badge/Website-%230077B5.svg?&style=flat-square&logo=website&logoColor=white)](https://adonys.me)
-[![Email](https://img.shields.io/badge/Email-%230077B5.svg?&style=flat-square&logo=email&logoColor=white)](mailto:dev@adonys.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adonyssantos)
-[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/adonyssantos_)
+#### 💼 EXPERIENCE
 
-[![wakatime](https://wakatime.com/badge/user/47c40b74-e67d-4823-bff4-1d1d3101eeae.svg)](https://wakatime.com/@47c40b74-e67d-4823-bff4-1d1d3101eeae)
-![adonyssantos](https://komarev.com/ghpvc/?username=adonyssantos&label=Profile%20views&color=0e75b6&style=flat)
+**Intellisys D. Corp — Software Developer**
+
+_OCT 2022 - PRESENT_
+
+As a Frontend Software Developer, I'm designing and developing efficient and effective solutions for the company's clients. We use Agile methodologies like Scrum and Kanban to improve the workflow and ensure high-quality delivery.
+
+**Freelance — Frontend Developer**
+
+_JAN 2022 - JUN 2022_
+
+As a Freelance Developer, I worked on an educational project utilizing React, TypeScript, and Firebase. I was tasked with improving the quality of the existing codebase and implementing new features to enhance the project's 
