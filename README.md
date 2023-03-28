@@ -1,12 +1,12 @@
 ### HELLO THERE! 👋
 
-[![Adonys Santos' website](https://img.shields.io/badge/-Check%20my%20work-blue?style=flat-square&logo=Google&logoColor=white&link=https://www.linkedin.com/in/adonyssantos/)](https://www.adonys.me/) 
-[![Adonys Santos' LinkedIn](https://img.shields.io/badge/-Conect%20with%20me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adonyssantos/)](https://www.linkedin.com/in/adonyssantos/) 
-[![Adonys Santos' GitHub followers](https://img.shields.io/badge/-Followh%20me-blue?style=flat-square&logo=GitHub&logoColor=&link=https://www.linkedin.com/in/adonyssantos/)](https://github.com/adonyssantos/)
-[![adonyssantos' Wakatime badge](https://wakatime.com/badge/user/47c40b74-e67d-4823-bff4-1d1d3101eeae.svg)](https://wakatime.com/@47c40b74-e67d-4823-bff4-1d1d3101eeae) 
----
+Frontend Developer with over 1 year of experience developing web and mobile applications. I specialize in the React.js ecosystem with TypeScript, Material UI, GraphQL, and Jest. Additionally, I have experience working with Next.js, Tailwind CSS, tRPC, and API Rest.
 
-I'm a person with a constant passion for learning and improvement. I'm particularly interested in team leadership and solution design through software development, with the goal of leading large teams and creating innovative and creative solutions to daily challenges. My focus on teamwork, collaboration, and innovation allows me to bring a unique value to any project.
+I am passionate about technology and always looking for ways to improve and learn new skills. I enjoy sharing my knowledge and helping others in any way I can. I support cooperation and teamwork in order to accomplish shared objectives.
+
+If you're interested in my profile, please don't hesitate to contact me. 😊 I'm available to discuss exciting job opportunities in the world of technology.
+
+📧 Reach me: [adonyssantosjimenez@gmail.com](mailto:adonyssantosjimenez@gmail.com)
 
 <!-- #### 📚 LATEST ARTICLES -->
 
@@ -16,11 +16,10 @@ I'm a person with a constant passion for learning and improvement. I'm particula
 #### 🎯 SKILLS
 
 - Web Programming Languages
-- Frontend with React and TypeScript
-- Styles libraries
-- Frontend with React
-- Code testing
-- Continuos intagration and deployment
+- Frontend Development
+- Styles Libraries
+- Code Testing
+- Continuos Intagration and Deployment
 - Agile Methodologies · Remote Teamwork · Software Documentation
 
 #### 💼 EXPERIENCE
