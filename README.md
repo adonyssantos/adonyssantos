@@ -1,8 +1,8 @@
 ### HELLO THERE! 👋
 
-Frontend Developer with over 1 year of experience developing web and mobile applications. I specialize in the React.js ecosystem with TypeScript, Material UI, GraphQL, and Jest. Additionally, I have experience working with Next.js, Tailwind CSS, tRPC, and API Rest.
+I have over 1 year of experience developing web applications. My experience is focusing on front-end development using tools like React.js and related frameworks such as Next.js. Also, I know how to handle different standards of API's like Rest, GraphQL, and tRPC. Besides that, I know how to use the state managers like Redux, Recoil, Zustand, or Jotai.
 
-I am passionate about technology and always looking for ways to improve and learn new skills. I enjoy sharing my knowledge and helping others in any way I can. I support cooperation and teamwork in order to accomplish shared objectives.
+I am passionate about technology and always looking for ways to improve and learn new skills. I enjoy sharing my knowledge and helping others in any way I can. I support cooperation and teamwork to accomplish shared objectives.
 
 If you're interested in my profile, please don't hesitate to contact me. 😊 I'm available to discuss exciting job opportunities in the world of technology.
 
