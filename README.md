@@ -20,7 +20,7 @@ If you're interested in my profile, please don't hesitate to contact me. 😊 I'
 - Styles Libraries
 - Code Testing
 - Continuos Intagration and Deployment
-- Agile Methodologies · Remote Teamwork · Software Documentation
+- Remote Teamwork · Communication · Software Documentation · Kanban ·  Scrum
 
 #### 💼 EXPERIENCE
 
