@@ -1,5 +1,5 @@
 **Hi there 👋**
 
-My name is Adonys Santos, a Software Engineer passionate about web and mobile development. I have experience building applications using modern JavaScript, TypeScript, and Python technologies.
+Software Engineer passionate about web development, and DevOps. I have experience building applications using React, TypeScript, Node and Python technologies, as well as managing infrastructure and cloud environments.
 
-I am passionate about technology and always seek ways to improve and learn new skills. I enjoy sharing my knowledge and helping others in any way I can. I support cooperation and teamwork to accomplish shared objectives.
+I have worked on a variety of projects, from small applications to large-scale systems, including building projects from scratch and maintaining existing ones. My experience spans multiple industries such as education, healthcare, ecommerce, and ERP. I am committed to continuous learning and enjoy sharing my knowledge with others. I thrive in cooperative environments and strongly believe in teamwork to achieve shared goals.
